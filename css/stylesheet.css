@@ -1,0 +1,44 @@
+body {
+	background-color: antiquewhite;
+}
+
+.heading{
+	position: absolute;
+	top: 475px;
+	font-family: 'Sofia';
+	font-size: 35px ;
+}
+
+.artist{
+	position: absolute;
+	top: 0px;
+}
+
+.bio{
+	position: absolute;
+	top: 550px;
+	width: 450px;
+}
+
+.imageone{
+	position: absolute;
+	left: 575px;
+	top: 500px;
+}
+
+.imagetwo{
+	position: absolute;
+	left: 1100px;
+	top: 500px;
+}
+
+.imagethree{
+	position: absolute;
+	bottom: 250px;
+	left: 575px;
+}
+
+.imagefour{
+	position: absolute;
+	top: 900px;
+}
